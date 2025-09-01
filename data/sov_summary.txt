@@ -1,0 +1,44 @@
+
+ stats for smart-fan:
+
+MENTION_SHARE:atomberg: 0.77
+havells: 0.12
+orient: 0.07
+crompton: 0.03
+
+ENGAGEMENT_SHARE:atomberg: 1.00
+havells: 0.00
+orient: 0.00
+crompton: 0.00
+
+POSITIVE_SHARE:atomberg: 0.78
+havells: 0.06
+orient: 0.12
+crompton: 0.03
+
+OVERALL_SOV:atomberg: 0.84
+havells: 0.07
+orient: 0.07
+crompton: 0.02
+
+ stats for efficient-fan:
+
+MENTION_SHARE:atomberg: 0.55
+havells: 0.15
+orient: 0.12
+crompton: 0.18
+
+ENGAGEMENT_SHARE:atomberg: 0.52
+havells: 0.46
+orient: 0.00
+crompton: 0.02
+
+POSITIVE_SHARE:atomberg: 0.53
+havells: 0.16
+orient: 0.11
+crompton: 0.21
+
+OVERALL_SOV:atomberg: 0.54
+havells: 0.25
+orient: 0.08
+crompton: 0.14

@@ -1,0 +1,7 @@
+google-api-python-client
+pandas
+tqdm
+vaderSentiment
+nltk
+jsonify
+google-generativeai

@@ -1,0 +1,36 @@
+{
+  "positive_keywords": [
+    ["fan", 51],
+    ["bldc", 20],
+    ["renesa", 15],
+    ["hai", 14],
+    ["please", 13],
+    ["buy", 13],
+    ["air", 12],
+    ["bhi", 10],
+    ["model", 10],
+    ["fans", 10],
+    ["aris", 8],
+    ["high", 8],
+    ["warranty", 8],
+    ["reviews", 8],
+    ["nahi", 7]
+  ],
+  "negative_keywords": [
+    ["fan", 22],
+    ["product", 18],
+    ["buy", 15],
+    ["service", 14],
+    ["poor", 13],
+    ["zero", 12],
+    ["fans", 10],
+    ["branded", 8],
+    ["like", 8],
+    ["customer", 8],
+    ["bldc", 8],
+    ["new", 7],
+    ["hai", 7],
+    ["fraud", 7],
+    ["speed", 7]
+  ]
+}
